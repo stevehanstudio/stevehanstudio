@@ -1,10 +1,10 @@
 ### Hi there, I'm Steve 👋
 
-[![Website](https://img.shields.io/website?label=stevean.dev&style=for-the-badge&url=https%3A%2F%2stevehan.dev)](https://stevehan.dev)
+[![Website](https://img.shields.io/website?label=stevehan.dev&style=for-the-badge&url=https%3A%2F%2stevehan.dev)](https://stevehan.dev)
 
 ## I'm a Front-end Focused Full-stack Developer!
 
-- 🔭 I just finished my photography website that shares my journey in photography spanning almost 20 years: [live website](https://www.stevehanphotography.com)!
+- 🔭 I just finished my photography website that shares my journey in photography spanning almost 20 years: [visit website](https://www.stevehanphotography.com)!
 - 🌱 I’m currently learning Google Analytics and SEO 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Look for work and contribute to make the world a better place
