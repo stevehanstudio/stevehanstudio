@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Steve Han's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stevehanstudio&hide=stars&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Steve Han's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stevehanstudio&hide=stars&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" />
 
 </details>
 
