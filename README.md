@@ -50,7 +50,7 @@
 
 </details>
 
-[website]: https://stevehan.dev.com
+[website]: https://stevehan.dev
 [facebook]: https://facebook.com/stevehanphoto
 [twitter]: https://twitter.com/stevehanphoto
 [instagram]: https://instagram.com/stevehanphoto
