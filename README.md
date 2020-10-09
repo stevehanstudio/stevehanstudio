@@ -5,7 +5,7 @@
 ## I'm a front-end focused full-stack React Developer!
 
 - 🔭 I just finished my photography website that shares my journey in photography spanning 18 years: [Visit website](https://www.stevehanphotography.com)!
-- 🌱 I’m currently updating my Github READMEs, learning Google Analytics and SEO 🤣
+- 🌱 I’m currently updating my Github READMEs and preparing for my next project using Next.js and Firebase auth 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Look for a job to contribute to make the world a better place
 - ⚡ Fun fact: I used to travel the World in search of the best parties to photograph
