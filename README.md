@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=stevehan.dev&style=for-the-badge&url=https%3A%2F%2stevehan.dev)](https://stevehan.dev)
 
-## I'm a React Developer!
+## I'm a front-end focused full-stack React Developer!
 
 - 🔭 I just finished my photography website that shares my journey in photography spanning 18 years: [Visit website](https://www.stevehanphotography.com)!
 - 🌱 I’m currently updating my Github READMEs, learning Google Analytics and SEO 🤣
