@@ -4,11 +4,11 @@
 
 ## I'm a front-end focused full-stack React Developer!
 
-- 🔭 I just finished my photography website that shares my journey in photography spanning 18 years: [Visit website](https://www.stevehanphotography.com)!
-- 🌱 I’m currently updating my Github READMEs and preparing for my next project using Next.js and Firebase auth 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Look for a job to contribute to make the world a better place
-- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph
+- 🔭 I just finished my photography website that shares my journey in photography: [Visit website](https://www.stevehanphotography.com)!
+- 🌱 I’m currently learning Typescript, Next.js, SASS, and Three Fiber in preparation for my next project, re-make of dopaminevr.com 🤣
+- 👯 I’m looking to meet and collaborate with other developers
+- 🥅 2020/2021 Goal: Find a job to make use of the skills I've obtained.
+- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos]  (https://www.stevehanphotography.com/portfolios/music).
 
 ### Connect with me:
 
