@@ -2,12 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=stevehan.dev&style=for-the-badge&url=https%3A%2F%2stevehan.dev)](https://stevehan.dev)
 
-## I'm a front-end focused full-stack React Developer!
+## I'm a full stack Developer with a background in Computer Engineering!
 
-- 🔭 I just finished my photography website that shares my journey in photography: [Visit website](https://www.stevehanphotography.com)!
-- 🌱 I’m currently learning Typescript, Next.js, SASS, and Three Fiber in preparation for my next project, re-make of dopaminevr.com 🤣
+- 🔭 I'm currently preparing for my AWS Developer Associate and Solutions Architecture Associate certification exams.
 - 👯 I’m looking to meet and collaborate with other developers
-- 🥅 2020/2021 Goal: Find a job to make use of the skills I've obtained.
 - ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos]  (https://www.stevehanphotography.com/portfolios/music).
 
 ### Connect with me:
@@ -21,7 +19,7 @@
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
