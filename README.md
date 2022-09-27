@@ -5,11 +5,11 @@
 ## I'm a full stack Developer with a background in Computer Engineering!
 
 - 💪 I recently passed my AWS Developer Associate certification exam!
-- 🔭 I recently started a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project.  [![website](https://github.com/sv2506/Graph-UI/tree/development_Steve_Han)](Stay tuned for updates).
+- 🔭 I recently started a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project.  [Stay tuned for updates](https://github.com/sv2506/Graph-UI/tree/development_Steve_Han).
 - 🔭 I'm currently taking CNIT 106 Computer Networks at CCSF to fill in any knowledge gap I may have, because a strong foundation in networking is so important in Cloud Computing and building secure web apps.
 - 🔭 I'm preparing for my Solutions Architect Associate certification exam.
 - 👯 I’m looking to meet and collaborate with other developers
-- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos]  (https://www.stevehanphotography.com/portfolios/music).
+- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos] (https://www.stevehanphotography.com/portfolios/music).
 
 ### Connect with me:
 
