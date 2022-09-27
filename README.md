@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=stevehan.dev&style=for-the-badge&url=https%3A%2F%2stevehan.dev)](https://stevehan.dev)
 
-## I'm a full stack Developer with a background in Computer Engineering!
+## I'm a Full Stack Software Developer focusing on the Web Stack and Cloud Computing!
 
 - 💪 I recently passed my AWS Developer Associate certification exam!
 - 🔭 I just started a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project.  [Stay tuned for updates](https://github.com/sv2506/Graph-UI/tree/development_Steve_Han).
