@@ -9,7 +9,7 @@
 - 🔭 I'm currently taking CNIT 106 Computer Networks at CCSF to fill in any knowledge gap I may have, because a strong foundation in networking is so important in Cloud Computing and building secure web apps.
 - 🔭 I'm preparing for my Solutions Architect Associate certification exam.
 - 👯 I’m looking to meet and collaborate with other developers
-- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos] (https://www.stevehanphotography.com/portfolios/music).
+- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos](https://www.stevehanphotography.com/portfolios/music).
 
 ### Connect with me:
 
