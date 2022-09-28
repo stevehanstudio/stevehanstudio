@@ -6,7 +6,7 @@
 
 - 💪 I recently passed my AWS Developer Associate certification exam!
 - 🔭 I just started a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project.  [Stay tuned for updates](https://github.com/sv2506/Graph-UI/tree/development_Steve_Han).
-- 🔭 I'm currently taking CNIT 106 Computer Networks at CCSF to fill in any knowledge gap I may have, because a strong foundation in networking is so important in Cloud Computing and building secure web apps.
+- 🔭 I'm currently taking CNIT 106 Computer Networks at CCSF to fill in any knowledge gap I may have, because a strong foundation in networking is so important in working in the cloud and building secure web apps.
 - 🔭 I'm preparing for my AWS Solutions Architect Associate certification exam.
 - 👯 I’m looking to meet and collaborate with other developers
 - ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos](https://www.stevehanphotography.com/portfolios/music).
