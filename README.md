@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve 👋
 
-[![Website](https://img.shields.io/website?label=stevehan.dev&style=for-the-badge&url=https%3A%2F%2stevehan.dev)](https://stevehan.dev)
+[![Website](https://img.shields.io/badge/stevehan.dev-Full%20Stack%20Developer-blue?style=for-the-badge&logo=simplenote)](https://stevehan.dev)
 
 ## I'm a Full Stack Software Developer focusing on the Web Stack and Cloud Computing!
 
