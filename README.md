@@ -58,6 +58,6 @@
 
 [website]: https://stevehan.dev
 [facebook]: https://facebook.com/stevehanphoto
-[twitter]: https://twitter.com/stevehanphoto
+[twitter]: https://twitter.com/stevehanstudio
 [instagram]: https://instagram.com/stevehanphoto
 [linkedin]: https://linkedin.com/in/stevehanstudio
