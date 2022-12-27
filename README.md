@@ -62,7 +62,7 @@
 [linkedin]: https://linkedin.com/in/stevehanstudio
 
 <details>
-  <summary>:zap: Steve's Coding Journey</summary>
+  <summary>🤵 Steve's Coding Journey</summary>
 
 My coding joruney started in the middle school on an Atari 400.  In high school, it was Pascal.  In college at San Jose State University, majoring in Computer Engineering it was primarily C, some assembly language and I took one semester of C++.
 
