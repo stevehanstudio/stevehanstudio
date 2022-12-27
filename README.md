@@ -60,3 +60,16 @@
 [twitter]: https://twitter.com/stevehanstudio
 [instagram]: https://instagram.com/stevehanphoto
 [linkedin]: https://linkedin.com/in/stevehanstudio
+
+<details>
+  <summary>:zap: Steve's Coding Journey</summary>
+
+My coding joruney started in the middle school on an Atari 400.  In high school, it was Pascal.  In college at San Jose State University, majoring in Computer Engineering it was primarily C, some assembly language and I took one semester of C++.
+
+Out of college I pursued hardware engineering, because I had found hardware to be more challenging and enjoy challenges.	In 2002, after 6 years of designing hardware and ASIC (Application Specific Integrated Circuit) chips, I decided to pursue my passion in photography, the electronic dance	music scene, and traveling.
+
+One of the first things I did when I made the decision was to create my first website to put my photographs on, which led to me managing a website that covers the electronic	dance music scene nationwide.  Having lived out my passion, I	explored a number of options including fashion photography,	video, sound engineering, and VR development. As a producer	and sound engineer for a podcast on VR, Dopamine VR, I	built a website using WordPress and decided after working	in the web space for 2 decades, it only makes sense to turn	my attention to web development.
+						
+I decided to focus on the frontend, then the backend, then cloud computing. I enrolled at CCSF where I received certificates in Web Application Programming, Securing Web Applications, and Javascript Specialist. Next, I enrolled in the Udacity React Nanodgree program to learn the intricacies of React.js. More recently, I studied for and passed the AWS Cloud Practitioner and AWS Developer Associates Certifications. I've strived for continuous learning and development and have taken countless online courses and my focus now is to put what I've learned to use. I am excited to take on my next challenge and look forward to connecting with you.
+
+</details>
