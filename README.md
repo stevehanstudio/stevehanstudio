@@ -4,8 +4,8 @@
 
 ## I'm a Full Stack Software Developer focusing on the Web Stack and Cloud Computing!
 
-- 💪 I recently finished my portfolio website ![www.stevehan.dev](https://www.stevehan.dev) where you can learn more about me.
-- 🔭 In Novemeber I finished a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project.
+- 💪 I recently finished my portfolio website [www.stevehan.dev](https://www.stevehan.dev) where you can learn more about me using Typescript, React, Framer Motion, and Tailwind CSS.
+- 🔭 In Novemeber I completed a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project [(Learn more)](https://github.com/stevehanstudio/Graph-UI).
 - 🔭 I recently passed my AWS Developer Associate certification exam!.
 - 👯 I’m looking to meet and collaborate with other developers
 - ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos](https://www.stevehanphotography.com/portfolios/music).
