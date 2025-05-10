@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve 👋
 
-[![Website](https://img.shields.io/badge/stevehan.dev-Full%20Stack%20Developer-blue?style=for-the-badge&logo=simplenote)](https://stevehan.dev)
+[![Website](https://img.shields.io/badge/stevehan.dev-Computational%20Biology%20/%20Bioinformatician%20-blue?style=for-the-badge&logo=simplenote)](https://stevehan.dev)
 
 ## I'm a Full Stack Web Developer transitioning to Biotechnology!
 
