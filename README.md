@@ -2,13 +2,12 @@
 
 [![Website](https://img.shields.io/badge/stevehan.dev-Full%20Stack%20Developer-blue?style=for-the-badge&logo=simplenote)](https://stevehan.dev)
 
-## I'm a Full Stack Software Developer focusing on the Web Stack and Cloud Computing!
+## I'm a Full Stack Web Developer transitioning to Biotechnology!
 
-- 💪 I recently finished my portfolio website [www.stevehan.dev](https://www.stevehan.dev) using Typescript, React, Framer Motion, and Tailwind CSS.
-- 🔭 In November I completed a 6-week Open Avenues micro-internship project on a frontend healthcare data visualization project [(Learn more)](https://github.com/stevehanstudio/Graph-UI).
-- 🔭 I recently passed my AWS Developer Associate certification exam!
-- 👯 I’m looking to meet and collaborate with other developers
-- ⚡ Fun fact: I used to travel the World in search of the best parties to photograph.  [Check out some of those photos](https://www.stevehanphotography.com/portfolios/music).
+- 💪 I will be recieving my Biotechnology Work Experience Certificate from City College of San Francisco this Summer 2025.
+- 🔭 I recently finished my code for a scRNA-req / scATAC-seq multi-omics project for the BIO2A Bioinformatics at Las Positas College.
+- 🔭 I will be finishing my internship at Weaver Lab in UCSF and presentating my poster at CCSF Bio Symposium May 24, 2005.
+- 👯 Thi summer I will be working on a molecular simulation research project at the Univeristy of Florida
 
 ### Connect with me:
 
@@ -66,7 +65,7 @@
 
 My coding joruney started in the middle school on an Atari 400.  In high school, it was Pascal.  In college at San Jose State University, majoring in Computer Engineering it was primarily C, some assembly language and I took one semester of C++.
 
-Out of college I pursued hardware engineering, because I had found hardware to be more challenging and enjoy challenges.	In 2002, after 6 years of designing hardware and ASIC (Application Specific Integrated Circuit) chips, I decided to pursue my passion in photography, the electronic dance	music scene, and traveling.
+Out of college I pursued hardware engineering, because I had found hardware to be more challenging and enjoy challenges.  In 2002, after 6 years of designing hardware and ASIC (Application Specific Integrated Circuit) chips, I decided to pursue my passion in photography, the electronic dance	music scene, and traveling.
 
 One of the first things I did when I made the decision was to create my first website to put my photographs on, which led to me managing a website that covers the electronic	dance music scene nationwide.  Having lived out my passion, I	explored a number of options including fashion photography,	video, sound engineering, and VR development. As a producer	and sound engineer for a podcast on VR, Dopamine VR, I	built a website using WordPress and decided after working	in the web space for 2 decades, it only makes sense to turn	my attention to web development.
 						
