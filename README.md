@@ -7,7 +7,7 @@
 - 💪 I will be recieving my Biotechnology Work Experience Certificate from City College of San Francisco this Summer 2025.
 - 🔭 I recently finished my code for a scRNA-req / scATAC-seq multi-omics project for the BIO2A Bioinformatics at Las Positas College.
 - 🔭 I will be finishing my internship at Weaver Lab in UCSF and presentating my poster at CCSF Bio Symposium May 24, 2005.
-- 👯 Thi summer I will be working on a molecular simulation research project at the Univeristy of Florida
+- 👯 This summer I will be working on a molecular simulation research project at the Univeristy of Florida
 
 ### Connect with me:
 
