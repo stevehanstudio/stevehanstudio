@@ -5,7 +5,7 @@
 ## I'm a Full Stack Web Developer transitioning to Biotechnology!
 
 - 💪 I will be recieving my Biotechnology Work Experience Certificate from City College of San Francisco this Summer 2025.
-- 🔭 I recently analyzed a scRNA-req / scATAC-seq multi-omics dataset for a project for the BIO2A Bioinformatics at Las Positas College.
+- 🔭 I recently analyzed a scRNA-req / scATAC-seq multi-omics dataset for a project for BIO2A Bioinformatics at Las Positas College.
 - 🔭 I will be finishing my internship at Weaver Lab in UCSF and presentating my poster at CCSF Bio Symposium May 24, 2005.
 - 👯 This summer, June 2 to August 8, I will be working on the molecular simulation research project at the Laboratory for Systems Medicine at the University of Florida.
 
