@@ -3,7 +3,7 @@
 Software engineer turned computational biologist, focused on bioinformatics, multi-omics, and spatial biology for cancer research.
 
 ## Currently
-- 🔬 [**BladderDIVE**](https://github.com/stevehanstudio/BladderDIVE) (Feb 2025 – present): analyzing multiplexed spatial proteomics data from bladder cancer tissue at UCSF
+- 🔬 [**BladderDIVE**](https://github.com/stevehanstudio/BladderDIVE) (Feb 2025 – present): analyzing 23-channel multiplexed IF spatial proteomics data from bladder cancer tissue at UCSF
 - 📚 Taking Cell Biology (BIOL 350) at SF State as I prepare to apply to the M.S. in Cell and Molecular Biology
 
 ## Projects
