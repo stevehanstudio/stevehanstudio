@@ -28,26 +28,26 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 
 ### Languages and Tools:
 <p align="left">
-<img align="middle" alt="R" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="middle" alt="scanpy" height="26px" src="https://scanpy.readthedocs.io/en/stable/_static/Scanpy_Logo_BrightFG.svg" />
-<img align="middle" alt="Python" height="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="middle" alt="Pandas" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="middle" alt="Matplotlib" height="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
-<img align="middle" alt="Scikit-Learn" height="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />
-<img align="middle" alt="Jupyter Notebook" height="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="middle" alt="Typescript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="middle" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="middle" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="middle" alt="NextJS" height="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
-<img align="middle" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="middle" alt="AWS" height="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="middle" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="middle" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="middle" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="middle" alt="Docker" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="middle" alt="Kubernetes" height="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
-<img align="middle" alt="Linux" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="middle" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="middle" alt="R" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbpsp;
+<img align="middle" alt="scanpy" height="26px" src="https://scanpy.readthedocs.io/en/stable/_static/Scanpy_Logo_BrightFG.svg" />&nbsp;&nbpsp;
+<img align="middle" alt="Python" height="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Pandas" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />&nbsp;&nbpsp;
+<img align="middle" alt="Matplotlib" height="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Scikit-Learn" height="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Jupyter Notebook" height="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Typescript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />&nbsp;&nbpsp;
+<img align="middle" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbpsp;
+<img align="middle" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbpsp;
+<img align="middle" alt="NextJS" height="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;&nbpsp;
+<img align="middle" alt="AWS" height="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />&nbsp;&nbpsp;
+<img align="middle" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbpsp;
+<img align="middle" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;&nbpsp;
+<img align="middle" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Docker" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Kubernetes" height="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Linux" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />&nbsp;&nbpsp;
+<img align="middle" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;&nbpsp;
 </p>
 
 <br />
