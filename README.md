@@ -11,7 +11,7 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 ## Projects
 - [bio2a-multiomics](https://github.com/stevehanstudio/bio2a-multiomics): scRNA-seq / scATAC-seq analysis for Bioinformatics at Las Positas College
 - [chromatin-hf-crosstalk](https://github.com/stevehanstudio/chromatin-hf-crosstalk): project and presentation for UC Berkeley Extension Immunology on study that used single cell RNA-seq and ATAC-seq to discovery of heart failure pathway (Spring 2026)
-- [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): [ChIP-seq, bulk RNA-seq, and piRNA-seq pipeline using Snakemake]
+- [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): ChIP-seq, bulk RNA-seq, and piRNA-seq pipeline using Snakemake
 - Open Avenues Foundation's Build Fellowship: Identifying Potential Applications of Spatial Genomics (Feb 2025), [(presentation slides)](https://docs.google.com/presentation/d/14EqD9jEtYxZYDYBNDQvywq5fWvJM21B1atxAPWMQ0q4/edit?usp=sharing)
 
 ## Training
@@ -65,18 +65,18 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 </details>
 
 [website]: https://stevehan.dev
-[facebook]: https://facebook.com/stevehanphoto
 [linkedin]: https://linkedin.com/in/stevehanstudio
+[github]: https://github.com/stevehanstudio
 
 <details>
   <summary>👨🏽‍💻 Steve's Coding Journey</summary>
 
-My coding joruney started in the middle school on an Atari 400.  In high school, it was Pascal.  In college at San Jose State University, majoring in Computer Engineering it was primarily C, some assembly language and I took one semester of C++.
+My coding journey started in the middle school on an Atari 400.  In high school, it was Pascal.  In college at San Jose State University, majoring in Computer Engineering it was primarily C, some assembly language and I took one semester of C++.
 
 Out of college I pursued hardware engineering, because I had found hardware to be more challenging and enjoy challenges.  In 2002, after 6 years of designing hardware and ASIC (Application Specific Integrated Circuit) chips, I decided to pursue my passion in photography, the electronic dance	music scene, and traveling.
 
 One of the first things I did when I made the decision was to create my first website to put my photographs on, which led to me managing a website that covers the electronic	dance music scene nationwide.  Having lived out my passion, I	explored a number of options including fashion photography,	video, sound engineering, and VR development. As a producer	and sound engineer for a podcast on VR, Dopamine VR, I	built a website using WordPress and decided after working	in the web space for 2 decades, it only makes sense to turn	my attention to web development.
 						
-I decided to focus on the frontend, then the backend, then cloud computing. I enrolled at CCSF where I received certificates in Web Application Programming, Securing Web Applications, and Javascript Specialist. Next, I enrolled in the Udacity React Nanodgree program to learn the intricacies of React.js. More recently, I studied for and passed the AWS Cloud Practitioner and AWS Developer Associates Certifications. I've strived for continuous learning and development and have taken countless online courses and my focus now is to put what I've learned to use. I am excited to take on my next challenge and look forward to connecting with you.
+I decided to focus on the frontend, then the backend, then cloud computing. I enrolled at CCSF where I received certificates in Web Application Programming, Securing Web Applications, and Javascript Specialist. Next, I enrolled in the Udacity React Nanodegree program to learn the intricacies of React.js. More recently, I studied for and passed the AWS Cloud Practitioner and AWS Developer Associates Certifications. I've strived for continuous learning and development and have taken countless online courses and my focus now is to put what I've learned to use. I am excited to take on my next challenge and look forward to connecting with you.
 
 </details>
