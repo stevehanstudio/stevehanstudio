@@ -8,7 +8,7 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 
 ## Projects
 - [bio2a-multiomics](https://github.com/stevehanstudio/bio2a-multiomics): scRNA-seq / scATAC-seq analysis for Bioinformatics at Las Positas College
-- [chromatin-hf-crosstalk](https://github.com/stevehanstudio/chromatin-hf-crosstalk): project and presentation for UC Berkeley Extension Immunology on study that used single cell RNA-seq and ATAC-seq to discovery of heart failure pathway (Spring 2026)
+- [chromatin-hf-crosstalk](https://github.com/stevehanstudio/chromatin-hf-crosstalk): project and presentation for UC Berkeley Extension Immunology (Spring 2026), based on a study using single-cell RNA-seq and ATAC-seq to discover a heart failure pathway.
 - [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): ChIP-seq, bulk RNA-seq, and piRNA-seq pipeline using Snakemake
 - Open Avenues Foundation's Build Fellowship: Identifying Potential Applications of Spatial Genomics (Feb 2025), [(presentation slides)](https://docs.google.com/presentation/d/14EqD9jEtYxZYDYBNDQvywq5fWvJM21B1atxAPWMQ0q4/edit?usp=sharing)
 
@@ -34,7 +34,6 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 <img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
 <img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -48,8 +47,6 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -68,13 +65,15 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 [github]: https://github.com/stevehanstudio
 
 <details>
-  <summary>👨🏽‍💻 Steve's Coding Journey</summary>
+  <summary>👨🏽‍💻 My path: from chip design to computational biology</summary>
 
-My coding journey started in the middle school on an Atari 400.  In high school, it was Pascal.  In college at San Jose State University, majoring in Computer Engineering it was primarily C, some assembly language and I took one semester of C++.
+I started coding in middle school on an Atari 400, learned Pascal in high school, and studied Computer Engineering at San Jose State University (C, assembly, and a semester of C++). I spent six years designing hardware and ASIC chips, then left in 2002 to pursue photography, the electronic dance music scene, and travel.
 
-Out of college I pursued hardware engineering, because I had found hardware to be more challenging and enjoy challenges.  In 2002, after 6 years of designing hardware and ASIC (Application Specific Integrated Circuit) chips, I decided to pursue my passion in photography, the electronic dance	music scene, and traveling.
+Photography led me to build websites. Over about two decades in the web space I ran a site covering the electronic dance music scene nationwide, produced a VR podcast (Dopamine VR), and eventually moved into web development. I earned certificates at CCSF in Web Application Programming, Securing Web Applications, and JavaScript, completed the Udacity React Nanodegree, and passed the AWS Cloud Practitioner and Developer Associate certifications.
 
-One of the first things I did when I made the decision was to create my first website to put my photographs on, which led to me managing a website that covers the electronic	dance music scene nationwide.  Having lived out my passion, I	explored a number of options including fashion photography,	video, sound engineering, and VR development. As a producer	and sound engineer for a podcast on VR, Dopamine VR, I	built a website using WordPress and decided after working	in the web space for 2 decades, it only makes sense to turn	my attention to web development.
+More recently I've moved into biotechnology, focusing on spatial biology and bioinformatics. I completed CCSF's Biotechnology Work Experience Certificate, including an internship in UCSF's Weaver Lab analyzing confocal imaging data, took coursework in bioinformatics and immunology, and now work on spatial proteomics of bladder cancer tissue at UCSF. I'm preparing to apply to the M.S. in Cell and Molecular Biology at SF State, and I like bringing an engineering mindset (reproducible pipelines, version control, data tooling) to biological questions.
+
+</details>
 						
 I decided to focus on the frontend, then the backend, then cloud computing. I enrolled at CCSF where I received certificates in Web Application Programming, Securing Web Applications, and Javascript Specialist. Next, I enrolled in the Udacity React Nanodegree program to learn the intricacies of React.js. More recently, I studied for and passed the AWS Cloud Practitioner and AWS Developer Associates Certifications. I've strived for continuous learning and development and have taken countless online courses and my focus now is to put what I've learned to use. I am excited to take on my next challenge and look forward to connecting with you.
 
