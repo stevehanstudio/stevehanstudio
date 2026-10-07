@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve 👋
 
-Software engineer turned computational biologist, focused on bioinformatics, multi-omics, and spatial biology for cancer research. [Website](https://stevehan.dev)
+Software engineer turned computational biologist, focused on bioinformatics, multi-omics, and spatial biology for cancer research.
 
 ## Currently
 - 🔬 [**BladderDIVE**](https://github.com/stevehanstudio/BladderDIVE) (Feb 2025 – present): analyzing multiplexed spatial proteomics data from bladder cancer tissue at UCSF
