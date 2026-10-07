@@ -51,7 +51,6 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 </p>
 
 <br />
-<br />
 
 ---
 
