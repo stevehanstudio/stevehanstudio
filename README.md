@@ -10,7 +10,7 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 
 ## Projects
 - [bio2a-multiomics](https://github.com/stevehanstudio/bio2a-multiomics): scRNA-seq / scATAC-seq analysis for Bioinformatics at Las Positas College
-- [chromatin-hf](LINK): project and presentation for UC Berkeley Extension Immunology (Spring 2026)
+- [chromatin-hf-crosstalk](https://github.com/stevehanstudio/chromatin-hf-crosstalk): project and presentation for UC Berkeley Extension Immunology on study that used single cell RNA-seq and ATAC-seq to discovery of heart failure pathway (Spring 2026)
 - [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): [ChIP-seq, bulk RNA-seq, and piRNA-seq pipeline using Snakemake]
 - Open Avenues Foundation's Build Fellowship: Identifying Potential Applications of Spatial Genomics (Feb 2025), [(presentation slides)](https://docs.google.com/presentation/d/14EqD9jEtYxZYDYBNDQvywq5fWvJM21B1atxAPWMQ0q4/edit?usp=sharing)
 
