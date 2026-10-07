@@ -1,7 +1,5 @@
 ### Hi there, I'm Steve 👋
 
-[![Website](https://img.shields.io/badge/stevehan.dev-Computational%20Biology%20/%20Bioinformatician%20-blue?style=for-the-badge&logo=simplenote)](https://stevehan.dev)
-
 Software engineer turned computational biologist, focused on bioinformatics, multi-omics, and spatial biology for cancer research. [Website](https://stevehan.dev)
 
 ## Currently
