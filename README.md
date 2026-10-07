@@ -28,6 +28,8 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
+<img align="left" alt="scanpy" width="26px" src="https://scanpy.readthedocs.io/en/stable/_static/Scanpy_Logo_BrightFG.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
