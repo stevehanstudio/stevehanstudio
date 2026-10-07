@@ -8,7 +8,7 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 
 ## Projects
 - [bio2a-multiomics](https://github.com/stevehanstudio/bio2a-multiomics): scRNA-seq / scATAC-seq analysis for Bioinformatics at Las Positas College
-- [chromatin-hf-crosstalk](https://github.com/stevehanstudio/chromatin-hf-crosstalk): project and presentation for UC Berkeley Extension Immunology (Spring 2026), based on a study using single-cell RNA-seq and ATAC-seq to discover a heart failure pathway.
+- [chromatin-hf-crosstalk](https://github.com/stevehanstudio/chromatin-hf-crosstalk): project and presentation for UC Berkeley Extension Immunology (Spring 2026), based on a study using single-cell RNA-seq and ATAC-seq to discover a heart failure pathway
 - [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): ChIP-seq, bulk RNA-seq, and piRNA-seq pipeline using Snakemake
 - Open Avenues Foundation's Build Fellowship: Identifying Potential Applications of Spatial Genomics (Feb 2025), [(presentation slides)](https://docs.google.com/presentation/d/14EqD9jEtYxZYDYBNDQvywq5fWvJM21B1atxAPWMQ0q4/edit?usp=sharing)
 
@@ -22,31 +22,31 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 
 [<img align="left" alt="Steve Han developer portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Steve Han | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Steve Han | Gitehub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Steve Han | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="scanpy" width="26px" src="https://scanpy.readthedocs.io/en/stable/_static/Scanpy_Logo_BrightFG.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="middle" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="middle" alt="scanpy" width="26px" src="https://scanpy.readthedocs.io/en/stable/_static/Scanpy_Logo_BrightFG.svg" />
+<img align="middle" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="middle" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="middle" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" />
+<img align="middle" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" />
+<img align="middle" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="middle" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="middle" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="middle" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="middle" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
+<img align="middle" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="middle" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="middle" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="middle" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="middle" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="middle" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="middle" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
+<img align="middle" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="middle" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
@@ -74,7 +74,4 @@ Photography led me to build websites. Over about two decades in the web space I 
 More recently I've moved into biotechnology, focusing on spatial biology and bioinformatics. I completed CCSF's Biotechnology Work Experience Certificate, including an internship in UCSF's Weaver Lab analyzing confocal imaging data, took coursework in bioinformatics and immunology, and now work on spatial proteomics of bladder cancer tissue at UCSF. I'm preparing to apply to the M.S. in Cell and Molecular Biology at SF State, and I like bringing an engineering mindset (reproducible pipelines, version control, data tooling) to biological questions.
 
 </details>
-						
-I decided to focus on the frontend, then the backend, then cloud computing. I enrolled at CCSF where I received certificates in Web Application Programming, Securing Web Applications, and Javascript Specialist. Next, I enrolled in the Udacity React Nanodegree program to learn the intricacies of React.js. More recently, I studied for and passed the AWS Cloud Practitioner and AWS Developer Associates Certifications. I've strived for continuous learning and development and have taken countless online courses and my focus now is to put what I've learned to use. I am excited to take on my next challenge and look forward to connecting with you.
 
-</details>
