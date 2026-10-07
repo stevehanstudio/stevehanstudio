@@ -11,8 +11,8 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 ## Projects
 - [bio2a-multiomics](https://github.com/stevehanstudio/bio2a-multiomics): scRNA-seq / scATAC-seq analysis for Bioinformatics at Las Positas College
 - [chromatin-hf](LINK): project and presentation for UC Berkeley Extension Immunology (Spring 2026)
-- [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): [one line: what it does, Snakemake]
-- Open Avenues Build: Identifying Potential Applications of Spatial Genomics (Feb 2025), [presentation](LINK)
+- [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): [ChIP-seq, bulk RNA-seq, and piRNA-seq pipeline using Snakemake]
+- Open Avenues Foundation's Build Fellowship: Identifying Potential Applications of Spatial Genomics (Feb 2025), [presentation](https://docs.google.com/presentation/d/14EqD9jEtYxZYDYBNDQvywq5fWvJM21B1atxAPWMQ0q4/edit?usp=sharing)
 
 ## Training
 - **Weaver Lab, UCSF**: confocal imaging analysis of pancreatic tissue; poster at CCSF Biosymposium, May 24, 2025 ([poster](https://sites.google.com/view/ccsfbiotech/biosymposium/spring-2025-biosymposium-posters/steve-han?authuser=0))
