@@ -2,13 +2,23 @@
 
 [![Website](https://img.shields.io/badge/stevehan.dev-Computational%20Biology%20/%20Bioinformatician%20-blue?style=for-the-badge&logo=simplenote)](https://stevehan.dev)
 
-## I'm a Full Stack Web Developer transitioning to Biotechnology!
+Software engineer turned computational biologist, focused on bioinformatics, multi-omics, and spatial biology for cancer research. [Website](https://stevehan.dev)
 
-- 💪 I will be recieving my Biotechnology Work Experience Certificate from City College of San Francisco this Summer 2025.
-- 🔭 I recently analyzed a scRNA-req / scATAC-seq multi-omics dataset for a project for BIO2A Bioinformatics at Las Positas College.
-- 🔭 I will be finishing my internship at Weaver Lab in UCSF and presentating my poster at CCSF Bio Symposium May 24, 2005.
-- 👯 This summer, June 2 to August 8, I will be working on the molecular simulation research project at the Laboratory for Systems Medicine at the University of Florida.
+## Currently
+- 🔬 **BladderDIVE** (Feb 2025 – present): analyzing multiplexed spatial proteomics data from bladder cancer tissue at UCSF
+- 📚 Taking Cell Biology (BIOL 350) at SF State as I prepare to apply to the M.S. in Cell and Molecular Biology
 
+## Projects
+- [bio2a-multiomics](https://github.com/stevehanstudio/bio2a-multiomics): scRNA-seq / scATAC-seq analysis for Bioinformatics at Las Positas College
+- [chromatin-hf](LINK): project and presentation for UC Berkeley Extension Immunology (Spring 2026)
+- [piRNA_workflow](https://github.com/stevehanstudio/piRNA_workflow): [one line: what it does, Snakemake]
+- Open Avenues Build: Identifying Potential Applications of Spatial Genomics (Feb 2025), [presentation](LINK)
+
+## Training
+- **Weaver Lab, UCSF**: confocal imaging analysis of pancreatic tissue; poster at CCSF Biosymposium, May 24, 2025 ([poster](LINK))
+- **Biotechnology Work Experience Certificate**, City College of San Francisco (Aug 2025)
+- **Immunology**, UC Berkeley Extension (Spring 2026)
+- **Bioinformatics**, Las Positas College
 ### Connect with me:
 
 [<img align="left" alt="Steve Han developer portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -56,8 +66,6 @@
 
 [website]: https://stevehan.dev
 [facebook]: https://facebook.com/stevehanphoto
-[twitter]: https://twitter.com/stevehanstudio
-[instagram]: https://instagram.com/stevehanphoto
 [linkedin]: https://linkedin.com/in/stevehanstudio
 
 <details>
