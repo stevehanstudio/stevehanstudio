@@ -15,7 +15,7 @@ Software engineer turned computational biologist, focused on bioinformatics, mul
 - Open Avenues Build: Identifying Potential Applications of Spatial Genomics (Feb 2025), [presentation](LINK)
 
 ## Training
-- **Weaver Lab, UCSF**: confocal imaging analysis of pancreatic tissue; poster at CCSF Biosymposium, May 24, 2025 ([poster](LINK))
+- **Weaver Lab, UCSF**: confocal imaging analysis of pancreatic tissue; poster at CCSF Biosymposium, May 24, 2025 ([poster](https://sites.google.com/view/ccsfbiotech/biosymposium/spring-2025-biosymposium-posters/steve-han?authuser=0))
 - **Biotechnology Work Experience Certificate**, City College of San Francisco (Aug 2025)
 - **Immunology**, UC Berkeley Extension (Spring 2026)
 - **Bioinformatics**, Las Positas College
